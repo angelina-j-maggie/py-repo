@@ -5,23 +5,23 @@ A template structure for repos.
 ## Structure
 
 
-|--README.md
-|
-|--dev
-|  |
-|  |-- contains code used in products
-|
-|--doc ----
-|  |  
-|--|--templates
-|     |
-|     |-- contains template code files
-|
-|--exploration
-|  |
-|  |-- contains code used in exploratory analysis
-|
-|--LICENCE
+*  README.md
+
+*  dev
+*  |
+*  |-- contains code used in products
+
+*  doc
+*  |  
+*  |--templates
+*     |
+*     |-- contains template code files
+
+*  exploration
+*  |
+*  |-- contains code used in exploratory analysis
+
+*  LICENCE
 
 
 ## Usage
