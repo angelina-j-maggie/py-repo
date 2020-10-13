@@ -4,25 +4,25 @@ A template structure for repos.
 
 ## Structure
 
+```
+  README.md
 
-*  README.md
+  dev
+  |
+  |-- contains code used in products
 
-*  dev
-*  |
-*  |-- contains code used in products
+  doc
+  |  
+  |--templates
+     |
+     |-- contains template code files
 
-*  doc
-*  |  
-*  |--templates
-*     |
-*     |-- contains template code files
+  exploration
+  |
+  |-- contains code used in exploratory analysis
 
-*  exploration
-*  |
-*  |-- contains code used in exploratory analysis
-
-*  LICENCE
-
+  LICENCE
+```
 
 ## Usage
 
